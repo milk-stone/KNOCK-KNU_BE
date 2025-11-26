@@ -242,3 +242,14 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,java,intellij,git,gradle,windows
+
+dev.env
+
+# IntelliJ IDE 관련 설정 무시
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Mac 시스템 파일 무시 (보통 같이 딸려 들어옴)
+.DS_Store
